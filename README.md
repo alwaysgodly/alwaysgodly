@@ -96,8 +96,7 @@
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alwaysgodly&theme=radical"/>
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alwaysgodly&theme=radical"/>
   <br/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alwaysgodly=radical"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alwaysgodly=radical&utcOffset=8"/>
+  
 </div>
 
 ---
