@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" alt="Tejas Coding" width="350px" src=".//Assets/illustration.png" />
+<img align="right" alt="Tejas Coding" width="350px" src=".//assets/illustration.png" />
 
 ### 👨‍💻 About Me
 - Full Stack Developer (MERN)   
