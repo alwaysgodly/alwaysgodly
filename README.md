@@ -111,7 +111,7 @@
 
 ### 🐍 GitHub Contribution Snake
 <p align="center">
-  <img src="https://github.com/Tejas-Santosh-Nalawade/Tejas-Santosh-Nalawade/blob/output/github-snake-dark.svg"/>
+  <img src="https://github.com/alwaysgodly/alwaysgodly/blob/output/github-snake-dark.svg"/>
 </p>
 
 ---
