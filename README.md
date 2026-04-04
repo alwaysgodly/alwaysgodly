@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="320px" src="./Assets/pushkraj.webp"/>
+<img align="right" alt="Coding" width="320px" src="pushkraj.webp"/>
 
 ### 👨‍💻 About Me
 
