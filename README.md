@@ -188,7 +188,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alwaysgodly&theme=radical&no-frame=true&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=alwaysgodly&theme=radical&no-frame=true&column=7&margin-w=15"/>
 </p>
 
 ---
