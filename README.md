@@ -21,7 +21,7 @@
 - 🏅 **Published Patent** — AI-powered Tuberculosis Detection (No. 202521021220A)
 - ⛓️ Building **ChainGuard AI** — Full-stack Blockchain Intelligence Platform
 - 🤖 Passionate about **ML, Federated Learning & Reinforcement Learning**
-- 🌐 Exploring **Web3, ICP, NLP & AI**
+- 🌐 Exploring **Machine Learning , GenAI, and Agentic AI**
 - 👥 Technical Associate — **CSI, DIT** (Aug 2024 – Jun 2025)
 - 🏛️ Attended **IIT Madras Blockchain & Cybersecurity Workshop** (Feb 2025)
 
@@ -30,7 +30,7 @@
 ### 🎓 Education
 
 - **B.E. in Computer Engineering** — Dr. D. Y. Patil Institute of Technology, Pune (2023–2027)
-  CGPA: **8.51 / 10**
+  CGPA: **8.62 / 10**
 
 ---
 
